@@ -1,0 +1,24 @@
+ ********************************************** IMPORTANTE ***************************************
+*                                                                                                  *
+*                                                                                                  *
+* O JOGO NÃO VAI RODAR NO TERMINAL DO VSCODE, PARA TESTAR ABRA app_forca                           *
+* PELO CMD VAI RODAR NORMALMENTE E BONITINHO                                                       *
+*                                                                                                  *
+*                                                                                                  *
+* SOBRE A NOTA DOS MODULOS E FOLDER, NO VSCODE ELE NÃO ABRE COMO FOLDER E NEM CRIA,                *
+* JÁ TENTEI EXLCUI E INSTALA DE NOVO MAS NÃO VAI DE JEITO NENHUM.                                  *
+* FORMATEI O PC MAS MESMO ASSIM NÃO FOI                                                            *
+* A NOTA VAI SER BAIXA, ENTENDO ISSO                                                               *
+* FIZ DESSA FORMA PARA DAR UMA DIFERENCIADA,                                                       *
+* DEIXE O app_forca E AS palavras_Secretas FUNTOS NA MESMA PASTA                                   *
+* PARA O BOM FUNCIONAMENTE SEM ERROS, SEM ERROS UMA BOA NOTA PARA MIM HAHAHA                       *
+* COM ERROS, NOTA ( DEPENDE SE MEU CODIGO FUNCIONAR NA MÁQUINA DO PROFESSOR HAHAHA )               *
+* APÓS LER, BOM JOGO E TENTE PERDER POIS GANHAR É DIFÍCIL                                          *
+* TEMA É PAÍSES                                                                                    *
+*                                                                                                  *
+* BOA SORTE, APEDEUTA HAHAHAHA                                                                     *
+*                                                                                                  *
+*                                                                                                  *
+*                                                                                                  *
+*                                                                                                  *
+ *************************************************************************************************
